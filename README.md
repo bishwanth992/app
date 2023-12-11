@@ -1,2 +1,2 @@
-# app
-application for test
+# app - App
+> Business Application
