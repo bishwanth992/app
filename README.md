@@ -1,2 +1,3 @@
 # app - App
-> My Business Application
+> Welcome to BAS - Business Application Studio
+ 
